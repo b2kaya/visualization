@@ -35,7 +35,7 @@
 
 
 
-
+ 
 
       
       ```
@@ -44,7 +44,11 @@ Good viz:
 - Word count should not exceed (as a maximum) 500 words for each visualization (i.e. 
 Please refer to the file "good viz"
 
-The aim of the viz is super clear--the title sets the context up. The sankey diagram is a great fit for showing the changes in seats across different Scottish parties. A great number of data points is condensed into an easily interpretable visual. 
+Why the viz is good: 
+
+> The aim of the viz is super clear--the title sets the context up. The Sankey diagram is a great fit for describing the kind of change in this type of data and context,  i.e.,  the changes in seats across different Scottish parties. The authors summarized a great number of data points in an easily interpretable visual. 
+
+> How it can be further improved: It is not clear if each square has the same range on the y axis. The top right corner legend/summary square can have ticks on the y axis to indicate the min and max number of seats that were gained. This way the reader can get a sense of the number of seats changed.
 
 ### Why am I doing this assignment?:
 
